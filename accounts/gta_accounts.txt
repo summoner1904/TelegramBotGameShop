@@ -1,0 +1,10 @@
+gta_login1:password1
+gta_login2:password2
+gta_login3:password3
+gta_login4:password4
+gta_login5:password5
+gta_login6:password6
+gta_login7:password7
+gta_login8:password8
+gta_login9:password9
+gta_login10:password10

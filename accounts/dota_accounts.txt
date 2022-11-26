@@ -1,0 +1,10 @@
+dota_login1:password1
+dota_login2:password2
+dota_login3:password3
+dota_login4:password4
+dota_login5:password5
+dota_login6:password6
+dota_login7:password7
+dota_login8:password8
+dota_login9:password9
+dota_login10:password10

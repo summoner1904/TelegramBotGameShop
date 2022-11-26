@@ -1,0 +1,10 @@
+rust_login1:password1
+rust_login2:password2
+rust_login3:password3
+rust_login4:password4
+rust_login5:password5
+rust_login6:password6
+rust_login7:password7
+rust_login8:password8
+rust_login9:password9
+rust_login10:password10

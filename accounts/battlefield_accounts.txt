@@ -1,0 +1,10 @@
+bf_login1:password1
+bf_login2:password2
+bf_login3:password3
+bf_login4:password4
+bf_login5:password5
+bf_login6:password6
+bf_login7:password7
+bf_login8:password8
+bf_login9:password9
+bf_login10:password10
